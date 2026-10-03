@@ -1,2 +1,1 @@
-// 不收資料時保持空字串。若要回傳 Google Sheet，貼上 Apps Script Web App URL。
-window.RESULTS_ENDPOINT = "";
+window.RESULTS_ENDPOINT = "https://script.google.com/macros/s/AKfycbxJ0nWFVSZE1w0RVLfEss3gYu4bCfuZvwVLVfe9pt2-Koqy-Osc3oeKIulMOOG3j78G/exec";
