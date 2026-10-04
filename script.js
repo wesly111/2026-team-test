@@ -550,13 +550,6 @@ let questions = [];
 let current = 0;
 let picks = [];
 
-const labels = {
-    strategy: "策略",
-    warmth: "暖心",
-    rigor: "嚴謹",
-    adapt: "應變"
-};
-
 const profiles = {
     strategy: {
         title: "策略導向型",
@@ -638,9 +631,6 @@ const profiles = {
             "保留彈性的同時，先準備最低限度的優先順序與備案，會更穩。"
     }
 };
-
-let current = 0;
-let picks = [];
 
 const $ = id => document.getElementById(id);
 
